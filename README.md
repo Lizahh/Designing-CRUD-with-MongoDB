@@ -18,7 +18,7 @@ This repository is designed **for beginners** to learn the CRUD (Create, Read, U
   * This repository contains four major python modules: Creating, Reading, Updating and Deleting
   * User needs to install all the libraries by following the requirements.txt file using pip3 (for Python3.x users)
   * The most important requirment is to install the MongoDB and Mongo Compass in the system
-  * As the course is designed for the complete beginners so the following steps can be followed to run the code in editor (e.g. Visual Studio)
+  * As the course is designed for the complete beginners so the following steps can be followed to run the python modules in editor (e.g. Visual Studio) and its direct implementation can be seen in MongoDB Compass
   
 # Usage:
 
